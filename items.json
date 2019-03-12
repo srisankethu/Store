@@ -1,0 +1,19 @@
+[{
+		"name": "toaster",
+		"qnty": "0",
+		"image": "item_1.png",
+		"cost": 1000
+	},
+	{
+		"name": "iron",
+		"qnty": "0",
+		"image": "item_2.png",
+		"cost": 500
+	},
+	{
+		"name": "washing machine",
+		"qnty": "0",
+		"image": "item_3.png",
+		"cost": 500000
+	}
+]

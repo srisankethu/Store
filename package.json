@@ -1,0 +1,30 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "Marketplace",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srisankethu/Store.git"
+  },
+  "keywords": [
+    "store",
+    "blockchain",
+    "hydro",
+    "hydrogen",
+    "snowflake"
+  ],
+  "author": "Sri Sanketh Uppalapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srisankethu/Store/issues"
+  },
+  "homepage": "https://github.com/srisankethu/Store/blob/master/README.md",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
